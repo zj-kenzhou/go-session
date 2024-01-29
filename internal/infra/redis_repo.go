@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/redis/go-redis/v9"
-	"github.com/zj-kenzhou/go-session/internal/config"
+	"github.com/zj-kenzhou/go-session/config"
 	"github.com/zj-kenzhou/go-session/internal/domain"
 	"github.com/zj-kenzhou/go-session/internal/repository"
 	"time"

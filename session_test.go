@@ -1,7 +1,7 @@
 package session
 
 import (
-	"github.com/zj-kenzhou/go-session/internal/config"
+	"github.com/zj-kenzhou/go-session/config"
 	"github.com/zj-kenzhou/go-session/model"
 	"testing"
 )
